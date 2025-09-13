@@ -55,8 +55,7 @@ The full candidate process will be:
 2. If accepted, we'll ask you to provide either:
     - Existing product you're proud of.
     - Solution to our take home test.
-3. If successful, we'll invite you for an on-site interview on the 5th December
-   2023.
+3. If successful, we'll invite you for an on-site interview on November 18th (interns and placement) or December 16th (grads).
 
 Please apply via the [job link][job-ad] and we'll share everything you need to
 know, but for more detail on step (2) read below:
@@ -82,7 +81,7 @@ fairly!
 Please also attach a (maximum) 5-minute Loom explaining:
 1. Overview of your solution
 2. Key technical decisions
-3. Trade-offs & alternatives
+3. Trade-offs and alternatives
 4. Final reflection (what did you find challenging/interesting/tricky?)
 
 ## 2. Complete our take-home challenge
@@ -218,5 +217,5 @@ includes:
 Please also attach a (maximum) 5-minute Loom explaining:
 1. Overview of your solution
 2. Key technical decisions
-3. Trade-offs & alternatives
+3. Trade-offs and alternatives
 4. Final reflection (what did you find challenging/interesting/tricky?)
