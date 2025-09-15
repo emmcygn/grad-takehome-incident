@@ -11,7 +11,7 @@ You can apply [here][job-ad] or read about the role below.
 
 ## What is the role?
 
-This placement is for a Product Engineer role: [watch this
+This application is for a Product Engineer role: [watch this
 video](https://youtu.be/I7i8WabFHcY) or check out
 [our blog](https://incident.io/blog/interns-at-incident-io) written by our last
 interns to see how it differs from other roles.
