@@ -158,17 +158,18 @@ Entries should be truncated to match the from/until parameters.
 
 ### Code submission and video explanation
 
-We'll expect a ZIP file containing the code, a 5-minute video explanation (see blow) and a `README.md` that
-includes:
-- Instructions on running your code, including installation of dependencies.
-- Comments on code structure/how you approached the problem you think may be
-  useful.
-- Having now built the scheduler, any thoughts you have on the product features
-  you might build on top of this (if you think how we'd use this at incident.io,
-  for example).
+We'd like you to submit two things:
+1. Your code
+2. A 5-minute video walkthrough
 
-**Important: Please also attach a (maximum) 5-minute video explaining:**
-1. Overview of your solution
-2. Key technical decisions
-3. Trade-offs and alternatives (what would you do differently next time?)
-4. Final reflection (what did you find challenging/interesting/tricky?)
+Please submit a ZIP file containing the code and a `README.md` that includes 
+instructions on running your code, including installation of dependencies.
+
+In the 'notes' field, include a link to a 5-minute video explaining:
+- How you approached solving the problem, and why you chose that approach
+- How your code implements that solution
+- Now you've built the scheduler, what other product features might you build
+  on top of this
+
+(We recommend [Loom](https://www.loom.com) for recording this, but you're welcome 
+to use any other tool you're comfortable with).
