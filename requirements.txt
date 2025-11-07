@@ -1,0 +1,5 @@
+# Testing dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# No runtime dependencies - uses Python standard library only
